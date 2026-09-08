@@ -4,11 +4,6 @@ An Open-Source, Lightweight Operating System Built for the AI-Agent Era.
 
 «Kachindo OS is an ambitious open-source project focused on building a lightweight, powerful Linux-based operating system designed specifically for AI agents, automation, and intelligent workflows.»
 
-""Status" (https://img.shields.io/badge/status-early--development-orange)"
-""License" (https://img.shields.io/badge/license-Apache--2.0-blue)"
-""Platform" (https://img.shields.io/badge/platform-Linux-lightgrey)"
-""Open Source" (https://img.shields.io/badge/open--source-yes-brightgreen)"
-
 ---
 
 🚀 Vision
@@ -232,7 +227,7 @@ Getting Started
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/kachindo-os.git
+git clone https://github.com/vyas106/kachindo-os.git
 cd kachindo-os
 
 Install dependencies:
